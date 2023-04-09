@@ -19,9 +19,12 @@
 ## Решение:
 
 1.Ввод исходного массива строк
+
 2.Подсчет количества элементов, удовлетворяющих условию. Это значение определяет размер нового массива.
- 3.Заполнение нового массива.
+
+3.Заполнение нового массива.
+ 
 4. Вывод на экран результата работы программы - массива из строк, длина которых меньше либо равна 3 символа. 
 
-**Блок-схемы** --> [**этой ссылке**](https://github.com/NataliaG0r/HT_vybor_specializacii/blob/main/flow_chart.png ).  
-**Код программы** -->[**этой ссылке**](https://github.com/NataliaG0r/HT_vybor_specializacii/blob/main/Program.cs ).
+**Блок-схемы** --> [**ссылка**](https://github.com/NataliaG0r/HT_vybor_specializacii/blob/main/flow_chart.png ).  
+**Код программы** -->[**ссылка**](https://github.com/NataliaG0r/HT_vybor_specializacii/blob/main/Program.cs ).
